@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pablo Picasso</title>
+</head>
+<div id="header">
+
+<h1>Pablo Picasso.</h1>
+</div>
+
+<img src="picasso.jpg" alt="FotoPicasso" width="300" height= "350" >
+
+<h2> Reseña vida de Picasso.</h2>
+<p>Pablo Ruiz Picasso (Nacio en  Málaga, España el 25 de octubre de 1881 – Y fallecio en  Mougins, Francia el 8 de abril de 1973), conocido como Pablo Picasso, 
+fue un pintor y escultor español, creador, junto con Georges Braque y Juan Gris, del movimiento cubista.
+Considerado uno de los mayores artistas del siglo XX, participó desde la génesis de muchos movimientos artísticos que se propagaron por el mundo y ejercieron 
+una gran influencia en otros grandes artistas de su tiempo. Incansable y prolífico, pintó más de dos mil obras actualmente presentes en museos y colecciones 
+de toda Europa y del mundo.</p>
+
+<body>
+
+<h2>5 de sus obras de arte.</h2>
+
+<h3>1.-Guernica.</h3>
+<p>Guernica es un famoso cuadro de Pablo Picasso, pintado entre los meses de mayo y junio de 1937, cuyo título alude al bombardeo de Guernica, ocurrido el 26 de
+ abril de dicho año, durante la guerra civil española.</p>
+<img src="guernica.jpg" alt="pinturaguernica" width="600" height= "400" >
+<hr>    </hr>
+ <h3>2.-Las señoritas de Avignon.</h3>
+ <p>Las señoritas de Avignon, Las señoritas de Aviñón o, más correctamente, Las señoritas de la calle de Avinyó, ​ es un cuadro del pintor español Pablo Picasso 
+ pintado en 1907 al óleo sobre lienzo y sus medidas son 243,9 x 233,7 cm. Se conserva en el Museo de Arte Moderno de Nueva York.</p>
+<img src="señoritasavignon.jpg" alt="pinturaseñoritas" width="350" height= "450">
+<hr>    </hr>
+<h3>3.-La mujer que llora.</h3>
+<p>La mujer que llora es un óleo sobre lienzo pintado por Pablo Picasso en Francia en 1937. Picasso estaba intrigado con el tema y revisó el tema varias veces ese año. </p>
+<img src="mujerllora.jpg" alt="pinturamujerquellora" width="350" height= "450">
+<hr>    </hr>
+<h3>4.-El sueño.</h3>
+<p>El sueño ​ es un cuadro del pintor español Pablo Picasso pintado en 1932. Está hecho mediante la técnica del óleo sobre lienzo y es de estilo cubista. </p>
+<img src="sueño.jpg" alt="pinturasueño" width="350" height= "450">
+<hr>    </hr>
+<h3>5.-Mujer frente al espejo.</h3>
+<p>La chica frente a un Espejo es una pintura por Pablo Picasso que fue creada en marzo 1932.​​Considerado a ser como una de sus obras maestras, la pintura ha sido ampliamente conocida por sus variadas interpretaciones del amante y la amada.​</p>
+<img src="mujerespejo.jpg" alt="pinturamujerespejo" width="350" height= "450">
+
+</body>
+</html>
