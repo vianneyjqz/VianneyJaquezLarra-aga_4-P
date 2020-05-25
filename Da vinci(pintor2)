@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Leonardo Da Vinci</title>
+</head>
+<div id="header">
+
+<h1>Leonardo Da Vinci.</h1>
+</div>
+
+<img src="davinci.jpg" alt="FotoDaVinci" width="300" height= "350" >
+
+<h2> Reseña vida Da Vinci.</h2>
+<p>Leonardo Da Vinci fue un polímata italiano del siglo XV y XVI (nació el 15 de abril de 1452 y murió el 2 de mayo de 1519) conocido principalmente por 
+ destacado talento como pintor, ingeniero e inventor.Sus obras pictóricas más conocidas son La Gioconda (también conocido como La Mona Lisa) y La última 
+ cena.Además de estas dos obras de arte, escribió un sinfín de ideas revolucionarias (recogidas en 20 volúmenes) que no pudieron ser desarrolladas hasta 
+ varios siglos después, algunas por las limitaciones técnicas existentes en esa época y otras por pequeñas incongruencias en sus bocetos que imposibilitaba 
+ el funcionamiento de sus inventos.</p>
+
+<body>
+
+<h2>5 de sus obras de arte.</h2>
+
+<h3>1.-La Gioconda/ La Mona Lisa</h3>
+<p>El Retrato de Lisa Gherardini, esposa de Francesco del Giocondo, ​más conocido como La Gioconda o La Mona Lisa, es una obra pictórica del polímata renacentista italiano Leonardo da Vinci. Fue adquirida por el rey Francisco I de Francia a 
+comienzos del siglo XVI y desde entonces es propiedad del Estado Francés.</p>
+<img src="monalisa.jpg" alt="pinturamonalisa" width="350" height= "450" >
+<hr>    </hr>
+ <h3>2.-La última cena.</h3>
+ <p>La última cena es una pintura mural original de Leonardo da Vinci ejecutada entre 1495 y 1498.​​ Se encuentra en la pared sobre la que se pintó originariamente, en el refectorio del convento dominico de Santa Maria delle Grazie, en Milán, ​ 
+declarado Patrimonio de la Humanidad por la Unesco en 1980.</p>
+<img src="ultimacena.jpg" alt="pinturaultimacena" width="550" height= "400">
+<hr>    </hr>
+<h3>3.-La dama del armiño.</h3>
+<p>La dama del armiño es un cuadro del pintor renacentista italiano Leonardo da Vinci, realizado hacia 1490.​ La modelo ha sido identificada con Cecilia Gallerani, retratada cuando era la amante de Ludovico Sforza, duque de Milán y cuando Leonardo estaba a su servicio.  </p>
+<img src="damadelarmiño.jpg" alt="pinturadamadelarmiño" width="350" height= "450">
+<hr>    </hr>
+<h3>4.-Baco.</h3>
+<p>Baco es un cuadro atribuido a menudo al pintor renacentista italiano Leonardo da Vinci. Está pintado al óleo sobre tabla transferido a lienzo y mide 177 cm. de alto y 115 cm. de ancho y data del periodo 1510-1515. Se conserva en el Museo del Louvre de París. </p>
+<img src="baco.jpg" alt="pinturabaco" width="350" height= "450">
+<hr>    </hr>
+<h3>5.-Cabeza de muchacha.</h3>
+<p>La cabeza de una mujer, también conocida como La Scapigliata, es una pintura al óleo sobre madera del maestro renacentista italiano Leonardo da Vinci, que data de alrededor de c. 1508 y ubicado en la Galleria Nazionale di Parma, Italia. </p>
+<img src="cabezamuchacha.jpg" alt="pinturacabezamuchacha" width="350" height= "450">
+
+</body>
+</html>
