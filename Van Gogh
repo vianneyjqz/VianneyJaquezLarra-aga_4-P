@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Vincent van Gogh</title>
+</head>
+<div id="header">
+
+<h1>Vincent van Gogh.</h1>
+</div>
+
+<img src="VanGogh.jpg" alt="FotoVanGough" width="300" height= "350" >
+
+<h2> Reseña vida de Van Gough.</h2>
+<p>Van Gogh nació en 1853 y creció en Holanda. Fue criado en una familia religiosa con su padre siendo un ministro. Cuando terminó sus estudios, Vincent siguió 
+la profesión de su tío y se convirtió en un comerciante de arte aprendiendo el comercio en Holanda y luego trabajando en Inglaterra y Francia. Vincent tuvo éxito
+e inicialmente fue contento con su trabajo. Sin embargo, pronto se cansó de la empresa de arte, especialmente en París, y perdió interés en el comercio. Después de regresar a casa, Vincent comenzó estudiar teología. Si bien muy apasionado y entusiastico, él falló los exámenes para entrar en un par de programas. Característico de su personalidad, era inteligente, capaz de hablar varios idiomas, pero él no creía que el latín era una lengua para predicar a los pobres</p>
+
+<body>
+
+<h2>5 de sus obras de arte.</h2>
+
+<h3>1.-La noche estrellada.</h3>
+<p>La noche estrellada es la obra maestra del pintor postimpresionista Vincent Van Gogh. El cuadro lo realizó en el sanatorio de Saint-Rémy-de-Provence, donde se recluyó hacia el final de su vida, a mediados de 1889, trece meses antes de su muerte. 
+Van Gogh usó óleo humedecido y pinceles finos para realizar la obra. </p>
+<img src="nocheestrellada.jpg" alt="pinturanocheestrellada" width="600" height= "400" >
+<hr>    </hr>
+ <h3>2.-Terraza de café por la noche.</h3>
+ <p>Terraza de café por la noche es una pintura del neerlandés Vincent van Gogh realizada en Arlés en septiembre de 1888 representando el ambiente de una terraza. En esta pintura Van Gogh expresó sus nuevas impresiones de Francia meridional.</p>
+<img src="terraza.jpg" alt="pinturaterraza" width="350" height= "450">
+<hr>    </hr>
+<h3>3.-Lirios.</h3>
+<p>Los lirios es un cuadro al óleo sobre lienzo realizado en mayo de 1889 por Vincent Van Gogh. Es una de las muchas pinturas y grabados de lirios creadas a lo largo de su vida. En 1987 fue vendido por 53.900.000 dólares, la cifra más alta 
+jamás pagada por un cuadro. </p>
+<img src="lirios.jpg" alt="pinturalirios" width="600" height= "450">
+<hr>    </hr>
+<h3>4.-Trigal con cuervos.</h3>
+<p>Trigal con cuervos, Campo de trigo con cuervos​​ o Trigal bajo la tormenta​ es un óleo sobre lienzo del pintor holandés Vincent van Gogh. Comúnmente se afirmaba que esta fue la última pintura de Van Gogh.​ </p>
+<img src="trigalcuervos.jpg" alt="pinturatrigalcuervos" width="600" height= "400">
+<hr>    </hr>
+<h3>5.-Cypresses.</h3>
+<p>Cypresses es una pintura de finales del siglo XIX del artista holandés Vincent van Gogh. Hecho en óleo sobre lienzo, la pintura representa un par de cipreses en el campo francés. La obra se encuentra actualmente en exhibición en el 
+Museo Metropolitano de Arte.​</p>
+<img src="cypresses.jpg" alt="pinturacypresses" width="350" height= "450">
+
+</body>
+</html>
