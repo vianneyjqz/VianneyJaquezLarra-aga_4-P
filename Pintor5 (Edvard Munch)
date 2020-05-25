@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Edvard Munch</title>
+</head>
+<div id="header">
+
+<h1>Edvard Munch.</h1>
+</div>
+
+<img src="EdvardMunch.jpg" alt="FotoMunch" width="350" height= "350" >
+
+<h2> Reseña vida de Munch.</h2>
+<p>Munch sería clasificado como simbolista y como representante temprano del expresionismo, que sería la tendencia artística predominante en la primera mitad 
+del siglo XX. Desde muy joven, en la década de 1880, el artista Munch buscaba expresar sus experiencias emocionales en el arte.  Así representó la ruptura con
+el predominante enfoque del naturalismo en lo externo y objetivo. Se anticipó al cambio que inundaría la década de 1890 hacia lo subjetivo y lo psicológico. La temática existencial como la angustia, la muerte, el amor, los celos y lamelancolía se vuelven fundamentales en su obra.</p>
+
+<body>
+
+<h2>5 de sus obras de arte.</h2>
+
+<h3>1.-El grito.</h3>
+<p>El grito es el título de cuatro cuadros del noruego Edvard Munch. La versión más famosa se encuentra en la Galería Nacional de Noruega y fue completada en 1893.​ </p>
+<img src="grito.jpg" alt="pinturagrito" width="350" height= "450" >
+<hr>    </hr>
+ <h3>2.-Ansiedad.</h3>
+ <p>Ansiedad es un óleo sobre lienzo pintado por el artista expresionista Edvard Munch en 1894. Está actualmente en el Museo Munch de Oslo, Noruega. Se considera que Ansiedad está estrechamente relacionada con la más famosa, El grito. </p>
+<img src="ansiedad.jpg" alt="pinturaansiedad" width="350" height= "450">
+<hr>    </hr>
+<h3>3.-La danza de la vida.</h3>
+<p> La danza de la vida o la danza de la vida es una pintura expresionista de 1899–1900 de Edvard Munch, ahora en el Museo Nacional de Arte de Noruega. El arco de la vida abarca desde la joven virgen blanca vestida de blanco sobre la pareja 
+con esposa roja hasta una vieja viuda vestida de negro.</p>
+<img src="danzavida.jpg" alt="pinturadanzavida" width="600" height= "400">
+<hr>    </hr>
+<h3>4.-El beso.</h3>
+<p>El Beso es una pintura al óleo sobre lienzo hecha por el artista simbolista noruego Edvard Munch en 1897. Es parte de su serie El friso de la vida, la cual representa las etapas de la relación entre hombres y mujeres. </p>
+<img src="beso.jpg" alt="pinturabeso" width="600" height= "400">
+<hr>    </hr>
+<h3>5.-Inger en la playa.</h3>
+<p>Inger en la playa es una pintura realizada por el artista noruego Edvard Munch. Fue creada en el verano de 1889, en Åsgårdstrand y representa un retrato de su hermana menor Inger. </p>
+<img src="Ingerplaya.jpg" alt="pinturaenlaplaya" width="600" height= "400">
+
+</body>
+</html>
+
+// Vianney Jaquez Larrañaga
