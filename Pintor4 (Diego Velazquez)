@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Diego Velázquez</title>
+</head>
+<div id="header">
+
+<h1> Diego Velázquez.</h1>
+</div>
+<h2></h2>
+<img src="DiegoVelazquez.jpg" alt="FotoDiegoVelazquez" width="300" height= "350" >
+
+<h2> Reseña vida de Velazquez.</h2>
+<p> Nació en Sevilla el 6 de junio de 1599 conocido como Diego Velázquez , fué un pintor Barroco considerado uno de los mas grandes de la pintura española , y figura indiscutible en la pintura universal.
+Pasó sus primeros años en Sevilla donde desarrollo un estilo naturalista influenciado por Caravaggio. Se mudo a Madrid y a los 24 años fue nombrado pintor del rey, y 4 años mas tarde a pintor de cámara , 
+el cargo mas importante en los pintores del rey.A esto se dedico el resto de su vida, hacía retratos y cuadros para adornar la casa real.Su estilo evolucionó hacia una pintura de gran luminosidad con 
+pinceladas rápidas y sueltas.Este estilo se desarrollo gracias a el estudio de los pintores reales y su viaje a Italia donde estuvo estudiando la pintura antigua y la contemporánea. En su última década 
+tenia un dominio perfecto de la luz</p>
+
+<body>
+
+<h2>5 de sus obras de arte.</h2>
+
+<h3>1.-Las meninas.</h3>
+<p>Las meninas o La familia de Felipe IV se considera la obra maestra del pintor del Siglo de Oro español Diego Velázquez. Acabado en 1656, según Antonio Palomino, fecha unánimemente aceptada por la crítica, corresponde al último periodo
+ estilístico del artista, el de plena madurez.</p>
+<img src="meninas.jpg" alt="pinturameninas" width="350" height= "450" >
+<hr>    </hr>
+ <h3>2.-La fábula de Aracne.</h3> 
+ <p>La fábula de Aracne, popularmente conocido como Las hilanderas, es un lienzo de Diego Velázquez, conservado en el Museo Nacional del Prado. Esta obra es de los máximos exponentes de la pintura barroca española y está considerada como 
+ uno de los grandes ejemplos de la maestría de Velázquez.</p>
+<img src="fabuladearacne.jpg" alt="pinturafabuladearacne" width="600" height= "400">
+<hr>    </hr>
+<h3>3.-La infanta doña Margarita de Austria.</h3>
+<p> La infanta doña Margarita de Austria es un retrato de dicha infanta que se conserva en el Museo del Prado. Antiguamente estuvo atribuido a Velázquez suponiéndolo inacabado a su muerte y completado por su yerno Juan Bautista Martínez del Mazo.</p>
+<img src="infantaMargarita.jpg" alt="infantaMargarita" width="350" height= "450">
+<hr>    </hr>
+<h3>4.-Cristo crucificado.</h3>
+<p>El Cristo crucificado, o Cristo de San Plácido, es una pintura al óleo sobre lienzo de Velázquez, conservada en el Museo del Prado desde 1829. Durante su primer viaje a Italia, entre 1629 y 1630, Velázquez pudo estudiar las obras de los grandes maestros. </p>
+<img src="cristo.jpg" alt="pinturacristo" width="350" height= "450">
+<hr>    </hr>
+<h3>5.-Tres músicos.</h3>
+<p>Tres músicos o Los músicos es una pintura al óleo de Diego Velázquez, presumiblemente una de las primeras obras conservadas del pintor sevillano.​</p>
+<img src="musicos.jpg" alt="pinturamusicos" width="600" height= "400">
+
+</body>
+</html>
